@@ -1,3 +1,3 @@
 # project-code
 My first git repo.<br>
-Author-Arjun
+Author-Arjun(me)
